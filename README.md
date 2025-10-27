@@ -117,6 +117,6 @@ Se permite asignar oráculos específicos por token, mejorando la compatibilidad
 
 ## 🧾 Licencia
 
-MIT © 2025 — Desarrollado por **Fernando Rojas**.
+ © 2025 — Desarrollado por **Fernando Rojas**.
 
 ---
